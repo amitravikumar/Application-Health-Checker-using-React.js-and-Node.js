@@ -2,14 +2,10 @@
   "name": "application-healthcheck",
   "description": "An application health monitor built using React",
   "version": "1.0.5",
-  "author": "Chris Adams",
+  "author": "Amit Kumar",
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/ChrisHAdams/application-healthcheck"
-  },
-  "bugs": {
-    "url": "https://github.com/ChrisHAdams/application-healthcheck/issues"
+    "type": "git"
   },
   "keywords": [
     "system",
