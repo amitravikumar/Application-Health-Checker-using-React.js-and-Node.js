@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check Component Card Snapshot Test 1`] = `
+<div
+  className="sc-bdVaJa dEiVuS"
+>
+  <h3>
+    BBC
+  </h3>
+  <h4
+    id="description"
+  >
+    Check the BBC Website
+  </h4>
+  <p
+    id="type"
+  >
+    Check Type: 
+    website
+  </p>
+  <p
+    id="expectedResponseCode"
+  >
+    Expected Response Code: 
+    200
+  </p>
+  <p
+    id="actualResponseCode"
+  >
+    Actual Response Code: 
+  </p>
+  <p
+    id="expectedResponseTime"
+  >
+    Expected Response Time: 
+    500
+    ms
+  </p>
+  <p
+    id="actualResponseTime"
+  >
+    Actual Response Time: 
+  </p>
+</div>
+`;
